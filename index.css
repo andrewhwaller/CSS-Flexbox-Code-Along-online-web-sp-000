@@ -12,6 +12,7 @@ header {
 
 main {
   justify-content: center;
+  align-items: center;
   display: flex;
   flex-flow: column wrap;
   background-color: #92C9D5;
